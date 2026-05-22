@@ -1,0 +1,44 @@
+The BEST HLD Candidates Sound Like This
+At low scale:
+- monolith
+- single DB
+
+As traffic grows:
+- introduce Redis
+- async workflows
+- read replicas
+
+At larger scale:
+- sharding
+- Kafka
+- event-driven architecture
+
+For reliability:
+- retries
+- idempotency
+- circuit breakers
+- observability
+
+THIS is exactly how strong SDE-2 candidates think.
+
+Final Most Important Scaling Concepts
+
+If you master these deeply, you are already ahead of most candidates:
+
+Statelessness
+Horizontal scaling
+Load balancing
+Redis caching
+Async processing/Kafka
+DB indexing
+Read replicas
+Sharding
+Idempotency
+Distributed locking
+Rate limiting
+Event-driven architecture
+Retries + DLQ
+Circuit breakers
+Observability
+
+These are the real backbone of modern scalable systems.
